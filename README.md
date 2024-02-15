@@ -8,7 +8,7 @@ I changed username! [Click here](https://github.com/jmcwb).
 
 ## Est-ce que tu cherches https://github.com/jacobmacweb ?
 
-J'ai changé de nom d'utilisateur [Cliquez ici](https://github.com/jmcwb).
+J'ai changé de nom d'utilisateur ! [Cliquez ici](https://github.com/jmcwb).
 
 ## Suchen Sie die Seite https://github.com/jacobmacweb?
 
